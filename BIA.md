@@ -1,8 +1,4 @@
 
-[Home](./) · [CEA](CEA.md) · [BIA](BIA.md) · [Decision Tree](DTM.md)
-
-
----
 
 ## 2) Budget Impact Analysis (Excel) - Teprotumumab to Treat Thyroid Eye Disease (TED)
 
@@ -39,3 +35,7 @@ This budget impact analysis evaluates the expected budgetary impact of adopting 
 
 *All calculations, parameter inputs, and sensitivity analyses are fully implemented within the Excel model.*
 
+---
+
+
+⬅️ [Previous: Cost-Effectiveness Analysis](CEA.md) | ➡️ [Next: Decision Tree Model](DTM.md)
