@@ -1,5 +1,5 @@
 <nav>
-[Home](./) · [CEA](cea) · [BIA](bia) · [Decision Tree](decision-tree)
+[Home](./) · [CEA](CEA.md) · [BIA](BIA.md) · [Decision Tree](DTM.md)
 </nav>
 
 ---
