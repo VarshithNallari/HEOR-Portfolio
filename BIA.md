@@ -1,3 +1,9 @@
+<nav>
+[Home](./) · [CEA](cea) · [BIA](bia) · [Decision Tree](decision-tree)
+</nav>
+
+---
+
 ## 2) Budget Impact Analysis (Excel) - Teprotumumab to Treat Thyroid Eye Disease (TED)
 
 This budget impact analysis evaluates the expected budgetary impact of adopting teprotumumab for eligible patients with thyroid eye disease over a 5-year time horizon from a healthcare payer perspective
