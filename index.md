@@ -15,10 +15,10 @@ developed for HTA-style decision-making.
 
 ---
 
-## Budget Impact Analysis (Excel)
+## Budget Impact Analysis (Excel) - Teprotumumab to Treat Thyroid Eye Disease (TED)
 - [Teprotumumab Budget Impact Model](budget-impact-analysis/Teprotumumab%20BIA.xlsx)
 
 ---
 
-## Decision Tree Model (Excel)
+## Decision Tree Model (Excel) - Chemotherapy Vs Immunotherapy to Treat Advanced Melanoma
 - [Decision Tree Model](decision-tree-model/Decision-Tree%20Model.xlsx)
