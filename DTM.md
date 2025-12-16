@@ -2,7 +2,6 @@
 
 ## 3) Decision Tree Model (Excel) 
 **Immunotherapy (Nivolumab) vs Chemotherapy (DTIC) for Advanced Melanoma**
-- [Decision Tree Model](decision-tree-model/Decision-Tree%20Model.xlsx)
 
 
 This decision-analytic model evaluates the cost-effectiveness of immunotherapy compared with standard chemotherapy over a 1-year time horizon from a healthcare payer perspective.
