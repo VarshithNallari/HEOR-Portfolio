@@ -18,6 +18,12 @@ developed for HTA-style decision-making.
 ## Budget Impact Analysis (Excel) - Teprotumumab to Treat Thyroid Eye Disease (TED)
 - [Teprotumumab Budget Impact Model](budget-impact-analysis/Teprotumumab%20BIA.xlsx)
 
+### 1) Epidemiology and Target Population
+
+![Epidemiology and target population cascade](budget-impact-analysis/figures/Epidemiology_Teprotumumab.png)
+
+*Target population estimation for active moderate–severe TED in the UK, using an epidemiology cascade (population → Graves’ disease → TED prevalence → severity → eligibility), with prevalent and incident patients reported.*
+
 ---
 
 ## Decision Tree Model (Excel) - Chemotherapy Vs Immunotherapy to Treat Advanced Melanoma
