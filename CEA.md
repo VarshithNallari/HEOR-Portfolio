@@ -1,3 +1,9 @@
+<nav>
+[Home](./) · [CEA](cea) · [BIA](bia) · [Decision Tree](decision-tree)
+</nav>
+
+---
+
 ## 1) Cost-Effectiveness Analysis (R)
 
 This analysis evaluates the incremental cost-effectiveness of alternative treatment strategies relative to standard of care using QALYs and NICE willingness-to-pay thresholds (£20,000–£30,000 per QALY).
