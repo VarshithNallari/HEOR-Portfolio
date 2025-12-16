@@ -20,7 +20,7 @@ developed for HTA-style decision-making.
 
 ### 1) Epidemiology and Target Population
 
-![Epidemiology and target population cascade](budget-impact-analysis/figures/Epidemiology_Teprotumumab.png)
+![Epidemiology and target population cascade](budget-impact-analysis/figures/Epidemiology_Teprotumamb.png)
 
 *Target population estimation for active moderate–severe TED in the UK, using an epidemiology cascade (population → Graves’ disease → TED prevalence → severity → eligibility), with prevalent and incident patients reported.*
 
