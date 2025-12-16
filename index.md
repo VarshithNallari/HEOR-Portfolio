@@ -45,6 +45,7 @@ developed for HTA-style decision-making.
 
 ### Model Files
 - [Teprotumumab Budget Impact Model](budget-impact-analysis/Teprotumumab%20BIA.xlsx)
+
 *All calculations, parameter inputs, and sensitivity analyses are fully implemented within the Excel model.*
 
 
