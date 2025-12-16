@@ -1,6 +1,6 @@
-<nav>
+
 [Home](./) · [CEA](CEA.md) · [BIA](BIA.md) · [Decision Tree](DTM.md)
-</nav>
+
 
 ---
 
