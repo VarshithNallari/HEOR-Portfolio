@@ -1,3 +1,9 @@
+<nav>
+[Home](./) · [CEA](CEA.md) · [BIA](BIA.md) · [Decision Tree](DTM.md)
+</nav>
+
+---
+
 ## 3) Decision Tree Model (Excel) 
 **Immunotherapy (Nivolumab) vs Chemotherapy (DTIC) for Advanced Melanoma**
 - [Decision Tree Model](decision-tree-model/Decision-Tree%20Model.xlsx)
