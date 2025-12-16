@@ -9,6 +9,8 @@ developed for HTA-style decision-making.
 - [R Script](cost-effectiveness-plane/Cost-Effectiveness%20Plane.R)
 - [Fictional Dataset](cost-effectiveness-plane/cep_data.csv)
 - [Cost-Effectiveness Plane](cost-effectiveness-plane/Cost-Effectiveness%20Plane.png)
+![Cost-Effectiveness Plane](cost-effectiveness-plane/Cost-Effectiveness%20Plane.png)
+
 
 ---
 
