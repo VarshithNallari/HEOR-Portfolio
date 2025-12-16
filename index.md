@@ -1,4 +1,3 @@
-# HEOR Portfolio
 
 This page presents a collection of health economic models
 developed for HTA-style decision-making.
@@ -6,8 +5,9 @@ developed for HTA-style decision-making.
 ---
 
 ## 1) Cost-Effectiveness Analysis (R)
-- [R Script](cost-effectiveness-plane/Cost-Effectiveness%20Plane.R)
-- [Fictional Dataset](cost-effectiveness-plane/cep_data.csv)
+
+This analysis evaluates the incremental cost-effectiveness of alternative treatment strategies relative to standard of care using QALYs and NICE willingness-to-pay thresholds (£20,000–£30,000 per QALY).
+
 - [Cost-Effectiveness Plane](cost-effectiveness-plane/Cost-Effectiveness%20Plane.png)
 ![Cost-Effectiveness Plane](cost-effectiveness-plane/Cost-Effectiveness%20Plane.png)
 *Illustrates Cost-Effectiveness of Treatment Options under NICE's Willingness-To-Pay Thresholds (£20,000-30,000 per QALY).*
@@ -29,6 +29,9 @@ The cost-effectiveness plane presents incremental costs and quality-adjusted lif
 **Conclusion:**  
 After excluding dominated strategies, several interventions provide additional health benefits at increased cost. The preferred treatment depends on the decision maker’s willingness-to-pay for additional QALYs, with selected options in the north-east quadrant potentially considered cost-effective relative to standard of care.
 
+### Model Files
+- [R Script](cost-effectiveness-plane/Cost-Effectiveness%20Plane.R)
+- [Fictional Dataset](cost-effectiveness-plane/cep_data.csv)
 
 ---
 
