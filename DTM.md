@@ -41,4 +41,4 @@ This decision-analytic model evaluates the cost-effectiveness of immunotherapy c
 
 ---
 
-⬅️ [Previous: Budget Impact Analysis](bia) | 🏠 [Home](./)
+⬅️ [Previous: Budget Impact Analysis](BIA.md) | 🏠 [Home](./)
