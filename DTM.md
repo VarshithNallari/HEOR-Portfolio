@@ -1,8 +1,4 @@
-<nav>
-[Home](./) · [CEA](CEA.md) · [BIA](BIA.md) · [Decision Tree](DTM.md)
-</nav>
 
----
 
 ## 3) Decision Tree Model (Excel) 
 **Immunotherapy (Nivolumab) vs Chemotherapy (DTIC) for Advanced Melanoma**
@@ -42,3 +38,7 @@ This decision-analytic model evaluates the cost-effectiveness of immunotherapy c
 - [Decision Tree Excel Model](decision-tree-model/Decision-Tree%20Model.xlsx)
 
 *All calculations, parameter inputs, and sensitivity analyses are fully implemented within the Excel model.*
+
+---
+
+⬅️ [Previous: Budget Impact Analysis](bia) | 🏠 [Home](./)
