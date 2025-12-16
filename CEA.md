@@ -1,8 +1,4 @@
-<nav>
-[Home](./) · [CEA](CEA.md) · [BIA](BIA.md) · [Decision Tree](DTM.md)
-</nav>
 
----
 
 ## 1) Cost-Effectiveness Analysis (R)
 
@@ -33,3 +29,8 @@ After excluding dominated strategies, several interventions provide additional h
 - [Cost-Effectiveness Plane](cost-effectiveness-plane/Cost-Effectiveness%20Plane.png)
 - [R Script](cost-effectiveness-plane/Cost-Effectiveness%20Plane.R)
 - [Fictional Dataset](cost-effectiveness-plane/cep_data.csv)
+
+---
+---
+
+⬅️ [Home](./) | ➡️ [Next: Budget Impact Analysis](bia)
