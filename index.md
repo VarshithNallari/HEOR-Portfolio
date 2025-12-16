@@ -3,7 +3,7 @@ This page presents a collection of health economic models
 developed for HTA-style decision-making.
 
 ## Projects
-- [Cost-Effectiveness Analysis (R)](cea)
+- [Cost-Effectiveness Analysis (R)](CEA)
 
 ---
 
