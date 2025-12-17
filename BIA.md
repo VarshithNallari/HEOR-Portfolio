@@ -40,32 +40,32 @@ This budget impact analysis evaluates the expected budgetary impact of adopting 
 1. **American Academy of Ophthalmology.**  
    *New Drug Treats Thyroid Eye Disease Without Surgery.*  
    2 May 2020.  
-   https://www.aao.org/eye-health/news/tepezza-nonsurgical-treatment-thyroid-eye-disease
+   <https://www.aao.org/eye-health/news/tepezza-nonsurgical-treatment-thyroid-eye-disease>
 
 2. **Bartalena, L., Gallo, D., Tanda, M. L., & Kahaly, G. J.**  
    *Thyroid Eye Disease: Epidemiology, Natural History, and Risk Factors.*  
    *Ophthalmic Plastic and Reconstructive Surgery*, 39(6S), S2–S8 (2023).  
-   https://doi.org/10.1097/IOP.0000000000002467
+   <https://doi.org/10.1097/IOP.0000000000002467>
 
 3. **British Thyroid Foundation.**  
    *Leisa’s Story – Graves’ Disease.*  
    9 June 2025.  
-   https://www.btf-thyroid.org/leisas-story-graves-disease
+   <https://www.btf-thyroid.org/leisas-story-graves-disease>
 
 4. **National Institute for Health and Care Excellence (NICE).**  
    *Teprotumumab for Treating Thyroid Eye Disease (ID6432).*  
    NICE, 2 July 2025.  
-   https://www.nice.org.uk/guidance/indevelopment/gid-ta11531/documents
+   <https://www.nice.org.uk/guidance/indevelopment/gid-ta11531/documents>
 
 5. **Shah, S. S., & Patel, B. C.**  
    *Thyroid Eye Disease.*  
    In *StatPearls*. StatPearls Publishing, 2025.  
-   https://www.ncbi.nlm.nih.gov/books/NBK582134/
+   <https://www.ncbi.nlm.nih.gov/books/NBK582134/>
 
 6. **Stan, M. N., Wagner, L. H., Rachmasari, K. N., et al.**  
    *Epidemiology and Management of Moderate to Severe Thyroid Eye Disease in the United States.*  
    *Clinical Endocrinology*, 102(4), 482–489 (2025).  
-   https://doi.org/10.1111/cen.15183
+   <https://doi.org/10.1111/cen.15183>
 
 
 
