@@ -38,6 +38,18 @@ This decision-analytic model evaluates the cost-effectiveness of immunotherapy c
 
 *All calculations, parameter inputs, and sensitivity analyses are fully implemented within the Excel model.*
 
+### Bibliography
+
+**National Institute for Health and Care Research (NIHR).**  
+   *Nivolumab for Adjuvant Treatment of Resected Stage III and IV Melanoma (CDF Review TA558) [ID1681].*  
+   NIHR Funding and Awards. Accessed 6 December 2025.  
+   <https://fundingawards.nihr.ac.uk/award/15/06/11>
+
+**Cancer Research UK.**  
+   *Targeted Cancer Drugs and Immunotherapy for Melanoma Skin Cancer.*  
+   Accessed 6 December 2025.  
+   <https://www.cancerresearchuk.org/about-cancer/melanoma/treatment/targeted-cancer-drugs-and-immunotherapy>
+
 ---
 
 ⬅️ [Previous: Budget Impact Analysis](BIA.md) | 🏠 [Home](./)
